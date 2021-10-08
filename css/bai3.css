@@ -1,0 +1,16 @@
+.vatlieu{
+	display: flex;
+}
+.b ul li{
+	list-style-type: none;
+	color: red;
+}
+.c{
+	padding-left: 250px;
+}
+h3{
+	color: red;
+}
+span{
+	color: red;
+}

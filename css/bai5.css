@@ -1,0 +1,17 @@
+.vatlieu{
+	display: flex;
+}
+.b ul li{
+	list-style-type: none;
+	color: purple;
+}
+.c{
+	padding-left: 150px;
+}
+.hai{
+	display: flex;
+}
+.cachcam{
+	margin: 22px 40px;
+	color: purple;
+}
